@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+body {
+	
+ background-position: center;
+ background-repeat: no-repeat;
+	background-size: auto;
+}
+
+
+img{
+	height: auto;
+margin-top: 70px;
+margin-bottom: 88px;
+   margin-left: 550px;
+	
+}
+
+    	
+
+}
+
+.barra5{background-color:#1b1b2a;
+
+    width:50px;
+    height:50px;}
+
+nav{display: block;
+	float: right;
+	padding: 10px 0 0 0;
+	width: 45%;}
+
+	ul{list-style-type: none; margin: 0; padding: 0;display: inline-block; position: relative;}
+
+nav ul li {
+	font-family: Montserrat;
+	font-weight: 700;
+	display: inline-block;
+	margin-left: 40px;
+	
+	cursor: pointer;
+}
